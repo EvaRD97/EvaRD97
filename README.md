@@ -1,6 +1,5 @@
 ### Hi there 👋
 Soy Eva, tengo un grado en Biología :microscope: y actualmente me estoy formando en Data Analytics y Data Science :computer: :chart_with_upwards_trend:.
-Este repositorio sirve para mostrar mis habilidades y compartir mis proyectos.
 <!--
 **EvaRD97/EvaRD97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
