@@ -1,5 +1,5 @@
 ### Hi there 👋
-Soy Eva, tengo un Grado Universitario en Biología :microscope: y actualmente me estoy formando en Data Analytics y Data Science :computer: :chart_with_upwards_trend:.
+Soy Eva, tengo un Grado Universitario en Biología :microscope: y actualmente me estoy formando en Data Analysis y Data Science :computer: :chart_with_upwards_trend:.
 <!--
 **EvaRD97/EvaRD97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
